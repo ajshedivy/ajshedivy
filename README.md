@@ -25,11 +25,12 @@ I'm Adam Shedivy - a software developer passionate about open source and AI. I s
 [<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="images/java.svg"/>]()
 [<img align="left" alt="NodeJS" width="26px" style="padding-right:10px;" src="images/nodejs.svg"/>]()
 [<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="images/vscode.svg"/>]()
-[<img align="left" alt="podman" width="26px" style="padding-right:10px;" src="images/podman.svg"/>]()
+
 [<img align="left" alt="openshift" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg"/>]()
 [<img align="left" alt="tensorflow" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>]()
 [<img align="left" alt="Git" width="26px" style="padding-right:10px;" src="images/git.svg"/>]()
 [<img align="left" alt="NPM" width="26px" style="padding-right:10px;" src="images/npm.svg"/>]()
+[<img align="left" alt="podman" width="26px" style="padding-right:10px;" src="images/podman.svg"/>]()
 
 
 <br/>
