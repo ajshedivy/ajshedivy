@@ -5,7 +5,7 @@ I'm Adam Shedivy - a software developer with a passion for open source and AI. I
 
 ### ✏️ Current Projects I'm contributing to:
 - [Continue](https://github.com/continuedev/continue): the leading open-source AI Code assistant
-- [Mapepire](https://mapepire-ibmi.github.io/): A open source database access layer for Db2 for i
+- [Mapepire](https://mapepire-ibmi.github.io/): open source database access layer for Db2 for i
 - [Code for i](https://codefori.github.io/docs/): A collection of VSCode extensions for IBM i development
 - [Bee Agent for IBM i](https://github.com/ajshedivy/bee-agent-ibmi): A lightweight AI agent for IBM i
 - [IBM Power Fraud Detection Pipeline](https://github.com/ajshedivy/IBMi-fraud-detection)(WIP): An end-to-end fraud detection pipeline for IBM Power Systems
