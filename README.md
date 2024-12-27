@@ -29,7 +29,6 @@ I'm Adam Shedivy - a software developer passionate about open source and AI. I s
 [<img align="left" alt="openshift" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg"/>]()
 [<img align="left" alt="tensorflow" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>]()
 [<img align="left" alt="Git" width="26px" style="padding-right:10px;" src="images/git.svg"/>]()
-
 [<img align="left" alt="NPM" width="26px" style="padding-right:10px;" src="images/npm.svg"/>]()
 
 
