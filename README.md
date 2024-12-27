@@ -1,6 +1,6 @@
 ## hey there! 👋
 
-I'm Adam Shedivy - a software developer passionate about open source and AI. I studied Computer Science and Data Science at UW-Madison, and now I’m at IBM, building innovative open-source and AI solutions for IBM Power Systems (IBM i).
+I'm Adam Shedivy - a software developer with a passion for open source and AI. I studied Computer Science and Data Science at UW-Madison. I am currently at IBM, where I focus on building enterprise open-source AI solutions for IBM Power Systems (IBM i).
 
 
 ### ✏️ Current Projects I'm contributing to:
