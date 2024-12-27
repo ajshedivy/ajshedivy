@@ -25,8 +25,6 @@ I'm Adam Shedivy - a software developer passionate about open source and AI. I s
 [<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="images/java.svg"/>]()
 [<img align="left" alt="NodeJS" width="26px" style="padding-right:10px;" src="images/nodejs.svg"/>]()
 [<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="images/vscode.svg"/>]()
-
-[<img align="left" alt="ollama" width="26px" style="padding-right:10px;" src="images/ollama.svg"/>]()
 [<img align="left" alt="podman" width="26px" style="padding-right:10px;" src="images/podman.svg"/>]()
 [<img align="left" alt="openshift" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg"/>]()
 [<img align="left" alt="tensorflow" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>]()
@@ -36,3 +34,6 @@ I'm Adam Shedivy - a software developer passionate about open source and AI. I s
 
 
 <br/>
+
+### 📫 How to reach me:
+[<img align="left" alt="Adam Shedivy | LinkedIn" width="30px" style="padding-right:10px;" src="images/linkedin.svg"/>](https://www.linkedin.com/in/adam-shedivy-2619a1166/)
