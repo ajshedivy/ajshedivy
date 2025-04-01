@@ -3,21 +3,58 @@
 I'm Adam Shedivy - a software developer with a passion for open source and AI. I studied Computer Science and Data Science at UW-Madison. I am currently at IBM, where I focus on building enterprise open-source AI solutions for IBM Power Systems (IBM i).
 
 
-### ✏️ Current Projects I'm contributing to:
+### 🌟 Open Source Contributions
 - [Continue](https://github.com/continuedev/continue): the leading open-source AI Code assistant
 - [Mapepire](https://mapepire-ibmi.github.io/): open source database access layer for Db2 for i
 - [Code for i](https://codefori.github.io/docs/): A collection of VSCode extensions for IBM i development
-- [Bee Agent for IBM i](https://github.com/ajshedivy/bee-agent-ibmi): A lightweight AI agent for IBM i
+
+### 🔥 Currently Working On
+- [AI agents for Db2 for i](https://github.com/ajshedivy/db2i-agents): A collection of AI agent tools, workflows, and demos for IBM i
+- [Db2 for i Context provider](https://codefori.github.io/docs/extensions/db2i/ai/code-assistant/): A code assistant for Db2 for i
 - [IBM Power Fraud Detection Pipeline](https://github.com/ajshedivy/IBMi-fraud-detection)(WIP): An end-to-end fraud detection pipeline for IBM Power Systems
 
 
+
+### 🚀 Featured Projects
+
+<a href="https://github.com/ajshedivy/db2i-agents">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajshedivy&repo=db2i-agents&theme=buefy" />
+</a>
+
 ### 📚 I'm currently learning:
-- AI agent Frameworks like [IBM Bee](https://github.com/i-am-bee)
-- Context providers for LLM applications:
-  - [Db2 for i Context provider](https://codefori.github.io/docs/extensions/db2i/ai/code-assistant/)
-  - [MCP](https://modelcontextprotocol.io/introduction)
+- AI agent Frameworks like:
+  - [Agno](https://github.com/ajshedivy/agent-app-agno)
+  - [LangChain](https://github.com/ajshedivy/db2i-agents/tree/main/examples/agents/langchain)
+  - [BeeAI](https://github.com/i-am-bee)
+- AI tools:
+  - [MCP server developement](https://github.com/ajshedivy/db2i-agents/tree/main/examples/mcp)
+  - Code Assistant solutions
 - Local LLM Providers such as Ollama, LM Studio, Llama.cpp
-- Deploying LLMs on IBM Power Systems: [blog](https://github.com/ajshedivy/blog/issues/1)
+
+
+### 📝 Blogs and Demos
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ajshedivy/blog/issues/1">
+        <b>🧠 Deploying LLMs on IBM Power Systems</b>
+        <br />
+        A guide to running large language models on IBM i and Power Systems
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ajshedivy.notion.site/17e662038dd181928546cb867083c914?v=17e662038dd181879e66000c0ff03ca7">
+        <b>⚡️ Code Assistants Deep Dive</b>
+        <br />
+        Exploring the latest in AI coding assistants and their practical applications for developers
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 ### 💼 Languages and Tools
 [<img align="left" alt="Python" width="26px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>]()
