@@ -48,7 +48,7 @@ I'm Adam Shedivy - a software developer with a passion for open source and AI. I
       <a href="https://ajshedivy.notion.site/17e662038dd181928546cb867083c914?v=17e662038dd181879e66000c0ff03ca7">
         <b>⚡️ Code Assistants Deep Dive</b>
         <br />
-        Exploring the latest in AI coding assistants and their practical applications for developers
+        Exploring the latest in AI code assistants and their practical applications for developers
       </a>
     </td>
   </tr>
