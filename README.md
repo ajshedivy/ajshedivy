@@ -43,7 +43,7 @@ I'm Adam Shedivy - a software developer working on building open source AI workf
       <a href="https://github.com/ajshedivy/blog/issues/1">
         <b>🧠 Deploying LLMs on IBM Power Systems</b>
         <br />
-        A guide to running large language models on IBM i and Power Systems
+        A guide to running large language models on IBM Power Systems
       </a>
     </td>
   </tr>
