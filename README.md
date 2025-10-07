@@ -1,15 +1,18 @@
 ## hey there! 👋
 
-I'm Adam Shedivy - a software developer with a passion for open source and AI. I studied Computer Science and Data Science at UW-Madison and am currently at IBM, where I focus on building open-source AI solutions for IBM Power Systems (IBM i).
+I'm Adam Shedivy - a software developer working on building open source AI workflows and developer tools.
 
 
 ### 🌟 Open Source Contributions
+- [Agno](https://github.com/agno-agi/agno): An open-source AI agent SDK and runtime for multi-agent systems
+- [MCPJam](https://github.com/MCPJam/inspector): An open-source MCP testing platform
 - [Continue](https://github.com/continuedev/continue): the leading open-source AI Code assistant
 - [Mapepire](https://mapepire-ibmi.github.io/): open source database access layer for Db2 for i
 - [Code for i](https://codefori.github.io/docs/): A collection of VSCode extensions for IBM i development
 
 ### 🔥 Currently Working On
 - [AI agents for Db2 for i](https://github.com/ajshedivy/db2i-agents): A collection of AI agent tools, workflows, and demos for IBM i
+- [MCP server for IBM i](https://github.com/IBM/ibmi-mcp-server): MCP Server for building IBM i AI Agents
 - [Db2 for i Context provider](https://codefori.github.io/docs/extensions/db2i/ai/code-assistant/): A code assistant for Db2 for i
 - [IBM Power Fraud Detection Pipeline](https://github.com/ajshedivy/IBMi-fraud-detection)(WIP): An end-to-end fraud detection pipeline for IBM Power Systems
 
@@ -20,15 +23,16 @@ I'm Adam Shedivy - a software developer with a passion for open source and AI. I
 <a href="https://github.com/ajshedivy/db2i-agents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajshedivy&repo=db2i-agents&theme=buefy" />
 </a>
+<a href="https://github.com/IBM/ibmi-mcp-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IBM&repo=ibmi-mcp-server&theme=buefy" />
+</a>
 
 ### 📚 I'm currently learning:
 - AI agent Frameworks like:
   - [Agno](https://github.com/ajshedivy/agent-app-agno)
   - [LangChain](https://github.com/ajshedivy/db2i-agents/tree/main/examples/agents/langchain)
-  - [BeeAI](https://github.com/i-am-bee)
-- AI tools:
   - [MCP server developement](https://github.com/ajshedivy/db2i-agents/tree/main/examples/mcp)
-  - Code Assistant solutions
+- No code/ low code AI workflow tools like [n8n](https://n8n.io/)
 - Local LLM Providers such as Ollama, LM Studio, Llama.cpp
 
 
