@@ -33,8 +33,12 @@
 
 ## Featured Projects
 
-[![db2i-agents](https://github-readme-stats.vercel.app/api/pin/?username=ajshedivy&repo=db2i-agents&theme=dark)](https://github.com/ajshedivy/db2i-agents)
-[![ibmi-mcp-server](https://github-readme-stats.vercel.app/api/pin/?username=IBM&repo=ibmi-mcp-server&theme=dark)](https://github.com/IBM/ibmi-mcp-server)
+<a href="https://github.com/ajshedivy/db2i-agents">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajshedivy&repo=db2i-agents&theme=buefy" />
+</a>
+<a href="https://github.com/IBM/ibmi-mcp-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IBM&repo=ibmi-mcp-server&theme=buefy" />
+</a>
 
 
 ## Writing
