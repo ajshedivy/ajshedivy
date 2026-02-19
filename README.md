@@ -33,12 +33,8 @@
 
 ## Featured Projects
 
-<a href="https://github.com/ajshedivy/db2i-agents">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajshedivy&repo=db2i-agents&theme=buefy" />
-</a>
-<a href="https://github.com/IBM/ibmi-mcp-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IBM&repo=ibmi-mcp-server&theme=buefy" />
-</a>
+[![db2i-agents](https://github-readme-stats.vercel.app/api/pin/?username=ajshedivy&repo=db2i-agents&theme=dark)](https://github.com/ajshedivy/db2i-agents)
+[![ibmi-mcp-server](https://github-readme-stats.vercel.app/api/pin/?username=IBM&repo=ibmi-mcp-server&theme=dark)](https://github.com/IBM/ibmi-mcp-server)
 
 
 ## Writing
@@ -46,14 +42,14 @@
 - 📝 **[Blog](https://ajshedivy.notion.site/)** — Writing about AI agents, developer tools, and open source
 
 **Agentic AI and IBM i** (TechChannel series)
-- 📖 **[AI Agents for IBM i: A Comprehensive Introduction](https://techchannel.com/ai-with-ibm-i/introduction-ai-agents/)** — How LLMs can be enhanced with knowledge, tools, and memory to perform autonomous tasks on IBM i
-- 🛠️ **[How to Build an AI Agent for IBM i](https://techchannel.com/ai-with-ibm-i/building-ai-agents/)** — Step-by-step guide to building agents that query system performance data with natural language
-- 🚀 **[Beyond the Basics: Advanced Capabilities for IBM i Agents](https://techchannel.com/ai-with-ibm-i/advanced-agentic-ai-capabilities/)** — Memory, storage, knowledge bases, and reasoning for more intelligent IBM i agents
+- 📖 **[AI Agents for IBM i: A Comprehensive Introduction](https://techchannel.com/ai-with-ibm-i/introduction-ai-agents/)** — Enhancing LLMs with tools and memory for IBM i
+- 🛠️ **[How to Build an AI Agent for IBM i](https://techchannel.com/ai-with-ibm-i/building-ai-agents/)** — Building agents that query system data with natural language
+- 🚀 **[Beyond the Basics: Advanced Capabilities](https://techchannel.com/ai-with-ibm-i/advanced-agentic-ai-capabilities/)** — Memory, knowledge bases, and reasoning for IBM i agents
 
 **Blog Posts**
-- 💻 **[How to Run LLMs on IBM i](https://ajshedivy.notion.site/How-to-run-LLMs-on-IBM-i-1ce662038dd180f8b59bd9cfada2815b)** — A guide to running large language models on IBM i
+- 💻 **[How to Run LLMs on IBM i](https://ajshedivy.notion.site/How-to-run-LLMs-on-IBM-i-1ce662038dd180f8b59bd9cfada2815b)** — Running large language models on IBM i
 - 🔄 **[How to Run LLMs on IBM i Pt. 2](https://ajshedivy.notion.site/How-to-Run-LLMs-on-IBM-i-Pt-2-2ab662038dd18036bf57e41114437a82)** — Continued deep dive into LLMs on IBM i
-- ⚡ **[Code Assistants Deep Dive](https://ajshedivy.notion.site/17e662038dd181928546cb867083c914?v=17e662038dd181879e66000c0ff03ca7)** — Exploring the latest in AI code assistants and their practical applications for developers
+- ⚡ **[Code Assistants Deep Dive](https://ajshedivy.notion.site/17e662038dd181928546cb867083c914?v=17e662038dd181879e66000c0ff03ca7)** — AI code assistants and their practical applications
 
 ## Connect
 
