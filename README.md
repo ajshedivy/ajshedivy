@@ -1,24 +1,37 @@
-## hey there! 👋
+# Hi, I'm Adam 👋
 
-I'm Adam Shedivy - a software developer working on building open source AI workflows and developer tools.
+🤖 **Open Source @ IBM** | 🧠 **AI Agents + Enterprise Systems** | 🔌 **MCP Builder**
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 
-### 🌟 Open Source Contributions
-- [Agno](https://github.com/agno-agi/agno): An open-source AI agent SDK and runtime for multi-agent systems
-- [MCPJam](https://github.com/MCPJam/inspector): An open-source MCP testing platform
-- [Continue](https://github.com/continuedev/continue): the leading open-source AI Code assistant
-- [Mapepire](https://mapepire-ibmi.github.io/): open source database access layer for Db2 for i
-- [Code for i](https://codefori.github.io/docs/): A collection of VSCode extensions for IBM i development
+> Building AI tools at the intersection of agent frameworks, MCP, and enterprise systems. Making cutting-edge AI accessible in places it hasn't been before.
 
-### 🔥 Currently Working On
-- [AI agents for Db2 for i](https://github.com/ajshedivy/db2i-agents): A collection of AI agent tools, workflows, and demos for IBM i
-- [MCP server for IBM i](https://github.com/IBM/ibmi-mcp-server): MCP Server for building IBM i AI Agents
-- [Db2 for i Context provider](https://codefori.github.io/docs/extensions/db2i/ai/code-assistant/): A code assistant for Db2 for i
-- [IBM Power Fraud Detection Pipeline](https://github.com/ajshedivy/IBMi-fraud-detection)(WIP): An end-to-end fraud detection pipeline for IBM Power Systems
+## What I'm Building
 
+- 🔌 **[IBM i MCP Server](https://github.com/IBM/ibmi-mcp-server)** — MCP server for building AI agents on IBM i
+- 🤖 **[db2i-agents](https://github.com/ajshedivy/db2i-agents)** — AI agent tools, workflows, and demos for Db2 for i
+- 📚 **[Agno Cookbook](https://github.com/ajshedivy/agno-cookbook)** — Customizable examples and demos for the Agno agent framework
+- 💡 **[Db2 for i Context Provider](https://codefori.github.io/docs/extensions/db2i/ai/code-assistant/)** — AI code assistant for Db2 for i
+- 🕸️ **[ibmi-agentos](https://github.com/ajshedivy/ibmi-agentos)** — Multi-agent system for IBM i using Agno
+- 👻 **[OpenAgent](https://github.com/ajshedivy/openagent)** — Open-source AgentOS client
+- 🔍 **[IBM Power Fraud Detection](https://github.com/ajshedivy/IBMi-fraud-detection)** — End-to-end fraud detection pipeline on Power Systems (WIP)
 
+## Open Source Contributions
 
-### 🚀 Featured Projects
+- 🧠 **[Agno](https://github.com/agno-agi/agno)** — AI agent SDK and runtime for multi-agent systems
+- 🧑‍💻 **[Continue](https://github.com/continuedev/continue)** — The leading open-source AI code assistant
+- 🧪 **[MCPJam Inspector](https://github.com/MCPJam/inspector)** — MCP testing platform
+- 🔗 **[Mapepire](https://mapepire-ibmi.github.io/)** — Database access layer for Db2 for i
+- ⌨️ **[Code for i](https://codefori.github.io/docs/)** — VSCode extensions for IBM i development
+
+## Featured Projects
 
 <a href="https://github.com/ajshedivy/db2i-agents">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajshedivy&repo=db2i-agents&theme=buefy" />
@@ -27,54 +40,21 @@ I'm Adam Shedivy - a software developer working on building open source AI workf
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IBM&repo=ibmi-mcp-server&theme=buefy" />
 </a>
 
-### 📚 I'm currently learning:
-- AI agent Frameworks like:
-  - [Agno](https://github.com/ajshedivy/agent-app-agno)
-  - [LangChain](https://github.com/ajshedivy/db2i-agents/tree/main/examples/agents/langchain)
-  - [MCP server developement](https://github.com/ajshedivy/db2i-agents/tree/main/examples/mcp)
-- No code/ low code AI workflow tools like [n8n](https://n8n.io/)
-- Local LLM Providers such as Ollama, LM Studio, Llama.cpp
+## Writing
 
+- 📝 **[Blog](https://ajshedivy.notion.site/)** — Writing about AI agents, developer tools, and open source
 
-### 📝 Blogs and Demos
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ajshedivy/blog/issues/1">
-        <b>🧠 Deploying LLMs on IBM Power Systems</b>
-        <br />
-        A guide to running large language models on IBM Power Systems
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://ajshedivy.notion.site/17e662038dd181928546cb867083c914?v=17e662038dd181879e66000c0ff03ca7">
-        <b>⚡️ Code Assistants Deep Dive</b>
-        <br />
-        Exploring the latest in AI code assistants and their practical applications for developers
-      </a>
-    </td>
-  </tr>
-</table>
+**Agentic AI and IBM i** (TechChannel series)
+- 📖 **[AI Agents for IBM i: A Comprehensive Introduction](https://techchannel.com/ai-with-ibm-i/introduction-ai-agents/)** — How LLMs can be enhanced with knowledge, tools, and memory to perform autonomous tasks on IBM i
+- 🛠️ **[How to Build an AI Agent for IBM i](https://techchannel.com/ai-with-ibm-i/building-ai-agents/)** — Step-by-step guide to building agents that query system performance data with natural language
+- 🚀 **[Beyond the Basics: Advanced Capabilities for IBM i Agents](https://techchannel.com/ai-with-ibm-i/advanced-agentic-ai-capabilities/)** — Memory, storage, knowledge bases, and reasoning for more intelligent IBM i agents
 
+**Blog Posts**
+- 💻 **[How to Run LLMs on IBM i](https://ajshedivy.notion.site/How-to-run-LLMs-on-IBM-i-1ce662038dd180f8b59bd9cfada2815b)** — A guide to running large language models on IBM i
+- 🔄 **[How to Run LLMs on IBM i Pt. 2](https://ajshedivy.notion.site/How-to-Run-LLMs-on-IBM-i-Pt-2-2ab662038dd18036bf57e41114437a82)** — Continued deep dive into LLMs on IBM i
+- ⚡ **[Code Assistants Deep Dive](https://ajshedivy.notion.site/17e662038dd181928546cb867083c914?v=17e662038dd181879e66000c0ff03ca7)** — Exploring the latest in AI code assistants and their practical applications for developers
 
+## Connect
 
-### 💼 Languages and Tools
-[<img align="left" alt="Python" width="26px" style="padding-right:10px;" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>]()
-[<img align="left" alt="TypeScript" width="26px" style="padding-right:10px;" src="images/typescript.svg"/>]()
-[<img align="left" alt="Java" width="26px" style="padding-right:10px;" src="images/java.svg"/>]()
-[<img align="left" alt="NodeJS" width="26px" style="padding-right:10px;" src="images/nodejs.svg"/>]()
-[<img align="left" alt="Visual Studio Code" width="26px" style="padding-right:10px;" src="images/vscode.svg"/>]()
-
-[<img align="left" alt="openshift" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg"/>]()
-[<img align="left" alt="tensorflow" width="26px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/>]()
-[<img align="left" alt="Git" width="26px" style="padding-right:10px;" src="images/git.svg"/>]()
-[<img align="left" alt="NPM" width="26px" style="padding-right:10px;" src="images/npm.svg"/>]()
-[<img align="left" alt="podman" width="26px" style="padding-right:10px;" src="images/Podman.svg"/>]()
-
-
-<br/>
-
-### 📫 How to reach me:
-[<img align="left" alt="Adam Shedivy | LinkedIn" width="30px" style="padding-right:10px;" src="images/linkedin.svg"/>](https://www.linkedin.com/in/adam-shedivy-2619a1166/)
+[![LinkedIn](https://img.shields.io/badge/-Adam_Shedivy-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-shedivy-2619a1166/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajshedivy)
