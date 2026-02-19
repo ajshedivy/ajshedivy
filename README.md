@@ -40,6 +40,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IBM&repo=ibmi-mcp-server&theme=buefy" />
 </a>
 
+
 ## Writing
 
 - 📝 **[Blog](https://ajshedivy.notion.site/)** — Writing about AI agents, developer tools, and open source
