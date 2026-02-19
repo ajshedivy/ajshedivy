@@ -31,15 +31,6 @@
 - 🔗 **[Mapepire](https://mapepire-ibmi.github.io/)** — Database access layer for Db2 for i
 - ⌨️ **[Code for i](https://codefori.github.io/docs/)** — VSCode extensions for IBM i development
 
-## Featured Projects
-
-<a href="https://github.com/ajshedivy/db2i-agents">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ajshedivy&repo=db2i-agents&theme=buefy" />
-</a>
-<a href="https://github.com/IBM/ibmi-mcp-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IBM&repo=ibmi-mcp-server&theme=buefy" />
-</a>
-
 
 ## Writing
 
