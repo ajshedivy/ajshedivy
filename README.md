@@ -46,6 +46,12 @@
 - 🔄 **[How to Run LLMs on IBM i Pt. 2](https://ajshedivy.notion.site/How-to-Run-LLMs-on-IBM-i-Pt-2-2ab662038dd18036bf57e41114437a82)** — Continued deep dive into LLMs on IBM i
 - ⚡ **[Code Assistants Deep Dive](https://ajshedivy.notion.site/17e662038dd181928546cb867083c914?v=17e662038dd181879e66000c0ff03ca7)** — AI code assistants and their practical applications
 
+## Speaking
+
+🎤 **[Talks & Presentations](https://github.com/ajshedivy/talks)** — Technical presentations on AI and IBM i
+
+Conferences include IBM TechXchange, COMMON POWERUp, COMMON Europe Congress, LUG, WMCPA, and more. Topics range from building LLMs from scratch to agentic AI infrastructure for IBM i.
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-Adam_Shedivy-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-shedivy-2619a1166/)
