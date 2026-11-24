@@ -34,7 +34,7 @@
 
 ## Writing
 
-- 📝 **[Blog](https://ajshedivy.notion.site/)** — Writing about AI agents, developer tools, and open source
+- 📝 **[Blog](https://adamshedivy.com/)** — Writing about AI agents, developer tools, and open source
 
 **Agentic AI and IBM i** (TechChannel series)
 - 📖 **[AI Agents for IBM i: A Comprehensive Introduction](https://techchannel.com/ai-with-ibm-i/introduction-ai-agents/)** — Enhancing LLMs with tools and memory for IBM i
